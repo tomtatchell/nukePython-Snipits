@@ -1,2 +1,2 @@
 # nukePython-Snipits
-A collection of various python snipits for nuke
+A collection of various python snipits and gizmos for nuke
